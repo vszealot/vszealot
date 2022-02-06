@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-F9AB00?style=flat-square&logo=AWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 <br>
