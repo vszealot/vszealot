@@ -26,10 +26,10 @@
 
 <h4 align="center">Data Analysis & ML, DL</h4>  
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 
