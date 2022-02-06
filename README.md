@@ -36,12 +36,13 @@
 <h4 align="center">Tool</h4>  
 <p align="center">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
 <br>
-
+<br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
