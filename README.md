@@ -18,10 +18,27 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+</p>
+<br>
+
+<h4 align="center">Data Analysis & ML, DL</h4>  
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+</p>
+<br>
+
+<h4 align="center">Tool</h4>  
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 
