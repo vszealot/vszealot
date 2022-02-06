@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 
 <h4 align="center">Front-end</h4>  
 <p align="center">
@@ -22,7 +21,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 
 <h4 align="center">Data Analysis & ML, DL</h4>  
 <p align="center">
@@ -31,7 +29,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 
 <h4 align="center">Tool</h4>  
 <p align="center">
